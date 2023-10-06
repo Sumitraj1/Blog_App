@@ -1,0 +1,1 @@
+web gunicorn sunny.wsgi:application --log-file -
